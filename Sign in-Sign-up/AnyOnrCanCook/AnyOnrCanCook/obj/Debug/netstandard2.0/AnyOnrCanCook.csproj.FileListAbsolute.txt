@@ -1,0 +1,14 @@
+C:\Users\abuen\OneDrive\Documents\GitHub\Project-Portfoilo-II-MobDev\Sign in-Sign-up\AnyOnrCanCook\AnyOnrCanCook\bin\Debug\netstandard2.0\AnyOnrCanCook.deps.json
+C:\Users\abuen\OneDrive\Documents\GitHub\Project-Portfoilo-II-MobDev\Sign in-Sign-up\AnyOnrCanCook\AnyOnrCanCook\bin\Debug\netstandard2.0\AnyOnrCanCook.dll
+C:\Users\abuen\OneDrive\Documents\GitHub\Project-Portfoilo-II-MobDev\Sign in-Sign-up\AnyOnrCanCook\AnyOnrCanCook\bin\Debug\netstandard2.0\ref\AnyOnrCanCook.dll
+C:\Users\abuen\OneDrive\Documents\GitHub\Project-Portfoilo-II-MobDev\Sign in-Sign-up\AnyOnrCanCook\AnyOnrCanCook\bin\Debug\netstandard2.0\AnyOnrCanCook.pdb
+C:\Users\abuen\OneDrive\Documents\GitHub\Project-Portfoilo-II-MobDev\Sign in-Sign-up\AnyOnrCanCook\AnyOnrCanCook\obj\Debug\netstandard2.0\AnyOnrCanCook.csprojAssemblyReference.cache
+C:\Users\abuen\OneDrive\Documents\GitHub\Project-Portfoilo-II-MobDev\Sign in-Sign-up\AnyOnrCanCook\AnyOnrCanCook\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\abuen\OneDrive\Documents\GitHub\Project-Portfoilo-II-MobDev\Sign in-Sign-up\AnyOnrCanCook\AnyOnrCanCook\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\abuen\OneDrive\Documents\GitHub\Project-Portfoilo-II-MobDev\Sign in-Sign-up\AnyOnrCanCook\AnyOnrCanCook\obj\Debug\netstandard2.0\AnyOnrCanCook.AssemblyInfoInputs.cache
+C:\Users\abuen\OneDrive\Documents\GitHub\Project-Portfoilo-II-MobDev\Sign in-Sign-up\AnyOnrCanCook\AnyOnrCanCook\obj\Debug\netstandard2.0\AnyOnrCanCook.AssemblyInfo.cs
+C:\Users\abuen\OneDrive\Documents\GitHub\Project-Portfoilo-II-MobDev\Sign in-Sign-up\AnyOnrCanCook\AnyOnrCanCook\obj\Debug\netstandard2.0\AnyOnrCanCook.csproj.CoreCompileInputs.cache
+C:\Users\abuen\OneDrive\Documents\GitHub\Project-Portfoilo-II-MobDev\Sign in-Sign-up\AnyOnrCanCook\AnyOnrCanCook\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\abuen\OneDrive\Documents\GitHub\Project-Portfoilo-II-MobDev\Sign in-Sign-up\AnyOnrCanCook\AnyOnrCanCook\obj\Debug\netstandard2.0\AnyOnrCanCook.dll
+C:\Users\abuen\OneDrive\Documents\GitHub\Project-Portfoilo-II-MobDev\Sign in-Sign-up\AnyOnrCanCook\AnyOnrCanCook\obj\Debug\netstandard2.0\ref\AnyOnrCanCook.dll
+C:\Users\abuen\OneDrive\Documents\GitHub\Project-Portfoilo-II-MobDev\Sign in-Sign-up\AnyOnrCanCook\AnyOnrCanCook\obj\Debug\netstandard2.0\AnyOnrCanCook.pdb

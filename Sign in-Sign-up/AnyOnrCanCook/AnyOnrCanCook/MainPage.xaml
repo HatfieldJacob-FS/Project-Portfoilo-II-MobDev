@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AnyOnrCanCook.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Name" x:Name="nameLabelFirst"/>
+        <Entry Placeholder="First Name" x:Name="nameEntryFirst"/>
+        <Label Text="Last name" x:Name="nameLabelLast"/>
+        <Entry Placeholder="Last Name" x:Name="nameEntryLast" />
+        <Label Text="UserName" x:Name="userNameLabel"/>
+        <Entry Placeholder="Username" x:Name="userNameEntry" />
+        <Label Text="Email" x:Name="emailLabel"/>
+        <Entry Placeholder="Email" x:Name="emailEntry" />
+        <Label Text="Password" x:Name="passwordEntryLabel" />
+        <Entry Placeholder="Password" x:Name="passwordEntry" IsPassword="True" />
+        <Label Text="Re-Enter Password" x:Name="passwordReEnterLabel"/>
+        <Entry Placeholder="Re-Enter Password" x:Name="passwordReEnterEntry" IsPassword="True"  />
+
+        <StackLayout Orientation="Horizontal">
+            <Button Text="Show passwords" x:Name="showPassword"/>
+            <Button Text="Create Account" x:Name="createAccountButton"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Already have an account?" />
+            <Button Text="Sign-In" x:Name="signInButton" />
+        </StackLayout>
+
+        
+        
+        
+    </StackLayout>
+
+</ContentPage>
