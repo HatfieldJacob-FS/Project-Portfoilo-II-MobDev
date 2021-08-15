@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AnyOnrCanCook.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Please Sign In" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        
+        <Entry Placeholder="First Name" x:Name="nameEntryFirst"/>
+       
+        <Entry Placeholder="Last Name" x:Name="nameEntryLast" />
+        
+        <Entry Placeholder="Username" x:Name="userNameEntry" />
+        
+        <Entry Placeholder="Email" x:Name="emailEntry" Keyboard="Email" />
+        
+        <Entry Placeholder="Password" x:Name="passwordEntry" IsPassword="True" />
+        
+        <Entry Placeholder="Re-Enter Password" x:Name="passwordReEnterEntry" IsPassword="True"  />
+
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Show password" />
+            <Switch IsToggled="false" x:Name="showPassword" />
+            <Button Text="Create Account" x:Name="createAccountButton"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Already have an account?" />
+            <Button Text="Sign-In" x:Name="signInButton" />
+        </StackLayout>
+
+        
+        
+        
+    </StackLayout>
+
+</ContentPage>
