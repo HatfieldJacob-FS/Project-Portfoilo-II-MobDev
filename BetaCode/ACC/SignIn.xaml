@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ACC.SignIn">
+    <ContentPage.Content>
+        <StackLayout>
+            
+            <Entry Placeholder="Username" x:Name="userNameEntry" />
+
+            <Entry Placeholder="Password" x:Name="passwordEntry" IsPassword="True" />
+
+            <Button Text="Sign-In" x:Name="signInButton" />
+
+            <StackLayout Orientation="Horizontal">
+
+                <Label Text="Show password" />
+
+                <Switch IsToggled="false" x:Name="showPassword" />
+
+
+
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Button Text="Forgot password?" x:Name="forgotPass" />
+                <Button Text="Forgot Username?" x:Name="forgotUser"/>
+            </StackLayout>
+            <Button Text="Create an Account"  x:Name="createAcc"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
